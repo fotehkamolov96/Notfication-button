@@ -1,4 +1,5 @@
 # Notfication-button
+Notifications provide concise and timely information about events on your site.
 
 Обратная связь:
 
